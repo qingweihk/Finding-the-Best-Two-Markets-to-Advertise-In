@@ -1,2 +1,6 @@
 # Finding-the-Best-Two-Markets-to-Advertise-In
-Let's say we're working for an an e-learning company that offers courses on programming. Most of our courses are on web and mobile development, but we also cover many other domains, like data science, game development, etc. We want to promote our product and we'd like to invest some money in advertisement.  Our goal in this project is to find out the two best markets to advertise our product in.
+数据分析项目：帮一家编程网站找到最好的两个市场来投放广告
+方法：
+  1.设定目标
+  2.理解数据
+  3.数据清洗：缺失值处理，文字分析（拆分),异常值分析和处理，可视化数据
